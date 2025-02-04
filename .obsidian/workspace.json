@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "cbf150a9ca0f5c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b8160bddf73c1ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ae2055f4a7ebfe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f9c557cb99d1bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e3a5c3237a44dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83c60cdc17f30ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "13bb8e79ba3a2f8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#notes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "180aa23a5ac29cce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "15f2459e8d2014bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2af0d806ca64b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0009d7e96b0f89df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Default/Angola packet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Angola packet"
+            }
+          },
+          {
+            "id": "4a0fecb0a17654b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Default/Angola packet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Angola packet"
+            }
+          },
+          {
+            "id": "a5f6029e89724ec0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "187b09bd3338fd2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Default/Angola packet.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Angola packet"
+            }
+          },
+          {
+            "id": "bbe1cd7aedd68721",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b03770842f4ea8e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 526.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b03770842f4ea8e6",
+  "lastOpenFiles": [
+    "Work/Microservices.md",
+    "Work/Keys and passwords.md",
+    "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0/Fix server.yml.md",
+    "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0/Fix incorrect dependencies client.yml.md",
+    "Work/Angola packet/Update to template 2.0.md",
+    "Work/Angola packet/Client.yml dependencies.md",
+    "Work/Angola packet/server.yml dependencies.md",
+    "Kanban/Tasks.md",
+    "Scripts/PackScripts/Pack scripts readme.md",
+    "Scripts/PackScripts/Stars to versions.md",
+    "Scripts/PackScripts/Dependencies from lock file.md",
+    "Scripts/PackScripts/Pack file versions to stars.md",
+    "Scripts/PackScripts",
+    "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0",
+    "Kanban/Notes/Fix server.yml.md",
+    "Work/Angola packet/Incorrectly updated dependencies.md",
+    "Kanban/Notes",
+    "Kanban",
+    "Work/Angola packet/Drawing 2025-02-03 09.12.27.excalidraw.md",
+    "Daily",
+    "2025-02-03.md",
+    "Untitled Kanban.md",
+    "Excalidraw/Drawing 2025-02-03 09.08.30.excalidraw.md",
+    "Excalidraw",
+    "Scripts",
+    "Work/Angola packet"
+  ]
+}
