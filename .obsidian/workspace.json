@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8160bddf73c1ed",
+        "id": "489f62cdca5d559e",
         "type": "tabs",
         "children": [
           {
-            "id": "83ae2055f4a7ebfe",
+            "id": "45aa49ae89af15d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-W06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-W06"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#notes",
+                "query": "tag:#docs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default/Angola packet.md",
+                "file": "2025-W06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Angola packet"
+              "title": "Backlinks for 2025-W06"
             }
           },
           {
@@ -109,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Default/Angola packet.md",
+                "file": "2025-W06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Angola packet"
+              "title": "Outgoing links from 2025-W06"
             }
           },
           {
@@ -124,7 +129,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -161,6 +168,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c64a8da409181ab1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 5
@@ -182,20 +203,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b03770842f4ea8e6",
+  "active": "45aa49ae89af15d8",
   "lastOpenFiles": [
     "Work/Microservices.md",
+    "2025-W06.md",
+    "Untitled.canvas",
+    "Scripts/PackScripts/Pack scripts readme.md",
+    "Scripts/PackScripts/Pack file versions to stars.md",
+    "Work/Angola packet/Client.yml dependencies.md",
     "Work/Keys and passwords.md",
     "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0/Fix server.yml.md",
     "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0/Fix incorrect dependencies client.yml.md",
     "Work/Angola packet/Update to template 2.0.md",
-    "Work/Angola packet/Client.yml dependencies.md",
     "Work/Angola packet/server.yml dependencies.md",
     "Kanban/Tasks.md",
-    "Scripts/PackScripts/Pack scripts readme.md",
     "Scripts/PackScripts/Stars to versions.md",
     "Scripts/PackScripts/Dependencies from lock file.md",
-    "Scripts/PackScripts/Pack file versions to stars.md",
     "Scripts/PackScripts",
     "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0",
     "Kanban/Notes/Fix server.yml.md",
