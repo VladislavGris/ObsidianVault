@@ -1,5 +1,6 @@
 {
   "interfaceFontFamily": "",
   "textFontFamily": "Cascadia Code",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cascadia Mono",
+  "theme": "obsidian"
 }

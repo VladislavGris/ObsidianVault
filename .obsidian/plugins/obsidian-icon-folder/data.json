@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📦",
-      "🔢",
-      "LiFileLock",
-      "LiNotebook",
-      "LiFolderKanban"
+      "LiHome",
+      "🐝",
+      "⚠",
+      "LiEthernetPort",
+      "📦"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,6 @@
   "Work/Keys and passwords.md": "LiFormInput",
   "Work/Microservices.md": "LiPackage",
   "Work/Angola packet": "🇦🇴",
-  "Excalidraw": "🖌",
   "Daily": "📅",
   "Kanban/Tasks.md": "LiKanbanSquare",
   "Kanban": "LiFolderKanban",
@@ -47,5 +46,9 @@
   "Scripts/PackScripts/Stars to versions.md": "🔢",
   "Scripts/PackScripts/Dependencies from lock file.md": "LiFileLock",
   "Scripts/PackScripts/Pack file versions to stars.md": "✴",
-  "Scripts/PackScripts": "📦"
+  "Scripts/PackScripts": "📦",
+  "Work/Microservices port clean.md": "LiEthernetPort",
+  "Work/Bitbucket search error.md": "⚠",
+  "Work/BBEE Configurations.md": "🐝",
+  "Work/Tasks Home.md": "LiHome"
 }

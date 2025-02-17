@@ -6,11 +6,11 @@ tags:
 [[server.yml dependencies]]
 
 ```
-ARTCMDSYS-2721
+RLS300-488
 ```
 
 ```
-ARTCMDSYS-2721.ConanTemplate/[^2.0.0]
+RLS300-488.ConanTemplate/[^2.0.0]
 ```
 
 ```python

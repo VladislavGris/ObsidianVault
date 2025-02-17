@@ -6,6 +6,8 @@ info:
   - services
   - ssh
 ---
+### Test
+
 User: 
 ```
 dockeradm
@@ -14,13 +16,23 @@ Password:
 ```
 Armadill0!#
 ```
-Tset hosts:
+Test hosts:
 10.10.19.5 jiratest.okbtsp.com
 10.10.19.8 repotest.okbtsp.com
 10.10.19.7 wikitest.okbtsp.com
 10.10.19.6 jfrogtest.okbtsp.com
 10.10.19.9 bambootest.okbtsp.com
 10.10.19.4 chattest.okbtsp.com
+### Production
+
+User: 
+```
+dockeradm
+```
+Password:
+```
+Armadill0!#
+```
 Hosts:
 jira.okbtsp.com
 repo.okbtsp.com
