@@ -11,14 +11,15 @@
             "id": "2243c686e11b3708",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "Work/Keys and passwords.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "Keys and passwords"
             }
           }
         ]
@@ -112,6 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Work/Keys and passwords.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,6 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Work/Keys and passwords.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,6 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Work/Keys and passwords.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
