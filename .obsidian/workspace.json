@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "256602dfd23b11a6",
+        "id": "461da60885f11536",
         "type": "tabs",
         "children": [
           {
-            "id": "a3213195c9a08392",
+            "id": "ce5830c2a27e3b31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Tasks Home.md",
+                "file": "Work/BBEE/BINS/Navigation Description.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks Home"
-            }
-          }
-        ]
-      },
-      {
-        "id": "622e3f09ee6d6e2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "33ad084c80d6c727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Angola packet/Update to template 2.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Update to template 2.0"
+              "title": "Navigation Description"
             }
           }
         ]
@@ -100,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 409.5
   },
   "right": {
     "id": "15f2459e8d2014bc",
@@ -117,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Tasks Home.md",
+                "file": "Work/Angola packet/Update to template 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks Home"
+              "title": "Backlinks for Update to template 2.0"
             }
           },
           {
@@ -158,16 +137,6 @@
             }
           },
           {
-            "id": "bbe1cd7aedd68721",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "b03770842f4ea8e6",
             "type": "leaf",
             "state": {
@@ -192,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "afd83345ca3841f7",
@@ -205,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Tasks Home.md",
+                "file": "Work/BBEE/BINS/Navigation Description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tasks Home"
+              "title": "Outgoing links from Navigation Description"
             }
           }
         ]
@@ -227,46 +196,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b03770842f4ea8e6",
+  "active": "ce5830c2a27e3b31",
   "lastOpenFiles": [
-    "Work/RLS300 ConanTemplate 2.0.md",
-    "Work/Tasks Home.md",
-    "Work/Angola packet/Update to template 2.0.md",
-    "Scripts/PackScripts/Pack scripts readme.md",
-    "Work/BBEE config backup-restore diagramm.md",
-    "Work/BBEE Configurations.md",
-    "Untitled.canvas",
-    "2025-02-14.md",
+    "Attachments",
+    "Work/BBEE/TDS StatusManager configuration file.md",
+    "Work/BBEE/BINS/Navigation Description.md",
     "Work/Keys and passwords.md",
-    "Kanban/Tasks.md",
-    "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0/Fix server.yml.md",
-    "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0/Fix incorrect dependencies client.yml.md",
-    "Scripts/PackScripts/Pack file versions to stars.md",
-    "Scripts/PackScripts/Dependencies from lock file.md",
-    "Work/Angola packet/Client.yml dependencies.md",
+    "Attachments/Navigation Description Diagramm.png",
+    "Work/BBEE/BINS",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Work/BBEE/BBEE-Configs/Diagramms/Backup-restore diagramm.md",
+    "Work/BBEE/BBEE-Configs/ConfigurationSystem.md",
+    "Work/BBEE/BBEE-Configs/Daemon.md",
+    "Work/BBEE/BBEE-Configs/Lib.md",
+    "Work/BBEE/BBEE-Configs/SettingsSaver.md",
+    "Work/BBEE/BBEE-Configs/Diagramms/Daemon diagramm.md",
+    "Work/BBEE/BBEE-Configs/Diagramms/ConfigurationSystem Diagramm.md",
+    "Work/BBEE/BBEE-Configs/ConfigurationSystem.html",
+    "Work/Angola packet/Update to template 2.0.md",
     "Work/Angola packet/server.yml dependencies.md",
-    "Work/Bitbucket search error.md",
-    "Work/Microservices.md",
-    "Work/Microservices port clean.md",
-    "Untitled.md",
-    "2025-02-10.md",
-    "2025-W06.md",
-    "Scripts/PackScripts/Stars to versions.md",
-    "Scripts/PackScripts",
-    "Kanban/Notes/ARTCMDSYS-2721.перевести радиус сектор на conan template 2.0",
-    "Kanban/Notes/Fix server.yml.md",
-    "Work/Angola packet/Incorrectly updated dependencies.md",
-    "Kanban/Notes",
-    "Kanban",
-    "Work/Angola packet/Drawing 2025-02-03 09.12.27.excalidraw.md",
-    "Daily",
-    "Excalidraw",
-    "Scripts",
-    "Work/Angola packet"
+    "Work/Angola packet/Client.yml dependencies.md",
+    "Work/Microservices/Microservices port clean.md",
+    "Work/Microservices/Microservices.md",
+    "Work/RLS300/RLS300 ConanTemplate 2.0.md",
+    "Work/BBEE/BBEE-Configs/BBEE Configs.md",
+    "Work/BBEE/BBEE-Configs/Diagramms",
+    "Work/RLS300",
+    "Work/Tasks Home.md",
+    "Work/BukMb2k/Training/Imit 318 in PRLI.md",
+    "Work/BukMb2k/Training",
+    "Work/BukMb2k",
+    "Work/Microservices",
+    "Work/BBEE",
+    "Work/BBEE/BBEE-Configs",
+    "Scripts/PackScripts/Pack scripts readme.md",
+    "Scripts/PackScripts/Pack file versions to stars.md",
+    "Work/Microservices/Bitbucket search error.md",
+    "Scripts/PackScripts/Dependencies from lock file.md",
+    "2025-02-14.md",
+    "Kanban/Tasks.md"
   ]
 }

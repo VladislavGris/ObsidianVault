@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHome",
-      "🐝",
-      "⚠",
-      "LiEthernetPort",
-      "📦"
+      "LiSettings",
+      "LiRadar",
+      "LiPackage",
+      "🚀",
+      "LiRocket"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,18 +37,18 @@
   "Scripts": "📜",
   "Work": "🧑‍💼",
   "Work/Keys and passwords.md": "LiFormInput",
-  "Work/Microservices.md": "LiPackage",
   "Work/Angola packet": "🇦🇴",
   "Daily": "📅",
-  "Kanban/Tasks.md": "LiKanbanSquare",
-  "Kanban": "LiFolderKanban",
-  "Kanban/Notes": "LiNotebook",
   "Scripts/PackScripts/Stars to versions.md": "🔢",
   "Scripts/PackScripts/Dependencies from lock file.md": "LiFileLock",
   "Scripts/PackScripts/Pack file versions to stars.md": "✴",
   "Scripts/PackScripts": "📦",
-  "Work/Microservices port clean.md": "LiEthernetPort",
-  "Work/Bitbucket search error.md": "⚠",
-  "Work/BBEE Configurations.md": "🐝",
-  "Work/Tasks Home.md": "LiHome"
+  "Work/BBEE": "🐝",
+  "Work/BukMb2k": "🚀",
+  "Work/Microservices/Microservices.md": "LiPackage",
+  "Work/Microservices/Bitbucket search error.md": "⚠",
+  "Work/Microservices/Microservices port clean.md": "LiEthernetPort",
+  "Work/Microservices": "LiPackage",
+  "Work/RLS300": "LiRadar",
+  "Work/BBEE/BBEE-Configs": "LiSettings"
 }
