@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/BBEE/BINS/Работа с БИНС.md",
+                "file": "Work/BBEE/BINS/Required data.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Работа с БИНС"
+              "title": "Required data"
             }
           }
         ]
@@ -174,19 +174,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/BBEE/BINS/Работа с БИНС.md",
+                "file": "Work/BBEE/BINS/Required data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Работа с БИНС"
+              "title": "Outgoing links from Required data"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +202,15 @@
   },
   "active": "7f192849e54e4add",
   "lastOpenFiles": [
+    "Work/BBEE/BINS/Работа с БИНС.md",
     "Work/BBEE/BINS/Navigation Description.md",
+    "Work/BBEE/BINS/Required data.md",
     "Attachments/Navigation Description Diagramm.png",
     "Attachments/1000000987.jpg",
     "Attachments/Pasted image 20250304135647.png",
     "Attachments/Pasted image 20250304135433.png",
-    "Work/BBEE/BINS/Работа с БИНС.md",
     "Notes/Shoping list.md",
     "Notes",
-    "Work/BBEE/BINS/Required data.md",
     "Attachments/Pasted image 20250304140727.png",
     "Attachments/Pasted image 20250304135953.png",
     "Work/Keys and passwords.md",
