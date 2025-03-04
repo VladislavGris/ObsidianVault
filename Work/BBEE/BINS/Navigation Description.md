@@ -13,3 +13,4 @@
 [Ссылка на протокол](https://repo.okbtsp.com/projects/BUMBLEBEE/repos/interface/browse/LanSscSvrSrp/ArmkManualSinsAngles.h)
 
 ![[Navigation Description Diagramm.png]]
+
