@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0fb1811ee5a4e3",
+        "id": "627254a226cad137",
         "type": "tabs",
         "children": [
           {
-            "id": "7f192849e54e4add",
+            "id": "9ae4307850482333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/BBEE/BINS/Required data.md",
+                "file": "Notes/OpenVpn configuration for Proton VPN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Required data"
+              "title": "OpenVpn configuration for Proton VPN"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 239.5
   },
   "right": {
     "id": "15f2459e8d2014bc",
@@ -174,19 +174,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/BBEE/BINS/Required data.md",
+                "file": "Notes/OpenVpn configuration for Proton VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Required data"
+              "title": "Outgoing links from OpenVpn configuration for Proton VPN"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 487.5
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,32 +196,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f192849e54e4add",
+  "active": "9ae4307850482333",
   "lastOpenFiles": [
     "Work/BBEE/BINS/Работа с БИНС.md",
-    "Work/BBEE/BINS/Navigation Description.md",
+    "Notes/OpenVpn configuration for Proton VPN.md",
     "Work/BBEE/BINS/Required data.md",
-    "Attachments/Navigation Description Diagramm.png",
-    "Attachments/1000000987.jpg",
-    "Attachments/Pasted image 20250304135647.png",
-    "Attachments/Pasted image 20250304135433.png",
+    "Work/BBEE/BINS/Navigation Description.md",
+    "Work/BBEE/BBEE-Configs/Diagramms/Backup-restore diagramm.md",
+    "Projects/Untitled.canvas",
+    "Projects",
     "Notes/Shoping list.md",
     "Notes",
     "Attachments/Pasted image 20250304140727.png",
     "Attachments/Pasted image 20250304135953.png",
+    "Attachments/Pasted image 20250304135647.png",
+    "Attachments/Pasted image 20250304135433.png",
+    "Attachments/1000000987.jpg",
     "Work/Keys and passwords.md",
-    "Projects/Untitled.canvas",
-    "Projects",
     "Untitled.canvas",
     "Attachments",
     "Work/BBEE/TDS StatusManager configuration file.md",
+    "Attachments/Navigation Description Diagramm.png",
     "Work/BBEE/BINS",
     "Untitled 1.canvas",
-    "Work/BBEE/BBEE-Configs/Diagramms/Backup-restore diagramm.md",
     "Work/BBEE/BBEE-Configs/ConfigurationSystem.md",
     "Work/BBEE/BBEE-Configs/Daemon.md",
     "Work/BBEE/BBEE-Configs/Lib.md",
