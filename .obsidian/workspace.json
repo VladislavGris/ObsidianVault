@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cae68303257b45ce",
+        "id": "ff0fb1811ee5a4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "74bd8466342d1dc0",
+            "id": "7f192849e54e4add",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,20 +174,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Navigation Description Diagramm.png",
+                "file": "Work/BBEE/BINS/Работа с БИНС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Navigation Description Diagramm"
+              "title": "Outgoing links from Работа с БИНС"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 526.5,
-    "collapsed": true
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,17 +200,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74bd8466342d1dc0",
+  "active": "7f192849e54e4add",
   "lastOpenFiles": [
-    "Work/BBEE/BINS/Required data.md",
     "Work/BBEE/BINS/Navigation Description.md",
-    "Work/BBEE/BINS/Работа с БИНС.md",
-    "Pasted image 20250304140727.png",
-    "Pasted image 20250304135953.png",
+    "Attachments/Navigation Description Diagramm.png",
+    "Attachments/1000000987.jpg",
     "Attachments/Pasted image 20250304135647.png",
     "Attachments/Pasted image 20250304135433.png",
+    "Work/BBEE/BINS/Работа с БИНС.md",
+    "Notes/Shoping list.md",
+    "Notes",
+    "Work/BBEE/BINS/Required data.md",
+    "Attachments/Pasted image 20250304140727.png",
+    "Attachments/Pasted image 20250304135953.png",
     "Work/Keys and passwords.md",
-    "Attachments/Navigation Description Diagramm.png",
     "Projects/Untitled.canvas",
     "Projects",
     "Untitled.canvas",
@@ -241,11 +243,8 @@
     "Work/BukMb2k/Training",
     "Work/BukMb2k",
     "Work/Microservices",
-    "Work/BBEE",
     "Scripts/PackScripts/Pack scripts readme.md",
     "Scripts/PackScripts/Pack file versions to stars.md",
-    "Work/Microservices/Bitbucket search error.md",
-    "Scripts/PackScripts/Dependencies from lock file.md",
-    "2025-02-14.md"
+    "Work/Microservices/Bitbucket search error.md"
   ]
 }
