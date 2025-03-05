@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "627254a226cad137",
+        "id": "ff0fb1811ee5a4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae4307850482333",
+            "id": "7f192849e54e4add",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/OpenVpn configuration for Proton VPN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/Pasted image 20250305120518.png"
               },
-              "icon": "lucide-file",
-              "title": "OpenVpn configuration for Proton VPN"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250305120518"
             }
           }
         ]
@@ -79,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 409.5
   },
   "right": {
     "id": "15f2459e8d2014bc",
@@ -174,19 +171,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/OpenVpn configuration for Proton VPN.md",
+                "file": "Attachments/Pasted image 20250305120518.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OpenVpn configuration for Proton VPN"
+              "title": "Outgoing links from Pasted image 20250305120518"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,33 +193,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9ae4307850482333",
+  "active": "b03770842f4ea8e6",
   "lastOpenFiles": [
-    "Work/BBEE/BINS/Работа с БИНС.md",
-    "Notes/OpenVpn configuration for Proton VPN.md",
+    "Work/BBEE/BINS/Соответствие CanGlobal виджетам на диагностичесткой программе.md",
     "Work/BBEE/BINS/Required data.md",
     "Work/BBEE/BINS/Navigation Description.md",
-    "Work/BBEE/BBEE-Configs/Diagramms/Backup-restore diagramm.md",
-    "Projects/Untitled.canvas",
-    "Projects",
+    "Work/BBEE/BINS/Работа с БИНС.md",
+    "Attachments/Pasted image 20250305120518.png",
+    "Notes/OpenVpn configuration for Proton VPN.md",
+    "Attachments/Navigation Description Diagramm.png",
+    "Attachments/1000000987.jpg",
+    "Attachments/Pasted image 20250304135647.png",
+    "Attachments/Pasted image 20250304135433.png",
     "Notes/Shoping list.md",
     "Notes",
     "Attachments/Pasted image 20250304140727.png",
     "Attachments/Pasted image 20250304135953.png",
-    "Attachments/Pasted image 20250304135647.png",
-    "Attachments/Pasted image 20250304135433.png",
-    "Attachments/1000000987.jpg",
     "Work/Keys and passwords.md",
+    "Projects/Untitled.canvas",
+    "Projects",
     "Untitled.canvas",
     "Attachments",
     "Work/BBEE/TDS StatusManager configuration file.md",
-    "Attachments/Navigation Description Diagramm.png",
     "Work/BBEE/BINS",
     "Untitled 1.canvas",
+    "Work/BBEE/BBEE-Configs/Diagramms/Backup-restore diagramm.md",
     "Work/BBEE/BBEE-Configs/ConfigurationSystem.md",
     "Work/BBEE/BBEE-Configs/Daemon.md",
     "Work/BBEE/BBEE-Configs/Lib.md",
@@ -245,7 +244,6 @@
     "Work/BukMb2k",
     "Work/Microservices",
     "Scripts/PackScripts/Pack scripts readme.md",
-    "Scripts/PackScripts/Pack file versions to stars.md",
-    "Work/Microservices/Bitbucket search error.md"
+    "Scripts/PackScripts/Pack file versions to stars.md"
   ]
 }
