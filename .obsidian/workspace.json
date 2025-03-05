@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0fb1811ee5a4e3",
+        "id": "6e027f707b096fed",
         "type": "tabs",
         "children": [
           {
-            "id": "7f192849e54e4add",
+            "id": "70279f29d4a24c58",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20250305120518.png"
+                "file": "Work/BBEE/BINS/Required data.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250305120518"
+              "icon": "lucide-file",
+              "title": "Required data"
             }
           }
         ]
@@ -171,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Pasted image 20250305120518.png",
+                "file": "Work/BBEE/BINS/Required data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250305120518"
+              "title": "Outgoing links from Required data"
             }
           }
         ]
@@ -197,12 +200,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b03770842f4ea8e6",
+  "active": "70279f29d4a24c58",
   "lastOpenFiles": [
-    "Work/BBEE/BINS/Соответствие CanGlobal виджетам на диагностичесткой программе.md",
-    "Work/BBEE/BINS/Required data.md",
-    "Work/BBEE/BINS/Navigation Description.md",
     "Work/BBEE/BINS/Работа с БИНС.md",
+    "Work/BBEE/BINS/Соответствие CanGlobal виджетам на диагностичесткой программе.md",
+    "Work/BBEE/BINS/Navigation Description.md",
+    "Work/BBEE/BINS/Required data.md",
     "Attachments/Pasted image 20250305120518.png",
     "Notes/OpenVpn configuration for Proton VPN.md",
     "Attachments/Navigation Description Diagramm.png",
@@ -243,7 +246,6 @@
     "Work/BukMb2k/Training",
     "Work/BukMb2k",
     "Work/Microservices",
-    "Scripts/PackScripts/Pack scripts readme.md",
-    "Scripts/PackScripts/Pack file versions to stars.md"
+    "Scripts/PackScripts/Pack scripts readme.md"
   ]
 }
